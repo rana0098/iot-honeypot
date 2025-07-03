@@ -1,0 +1,3 @@
+device,testdev01,1,,
+poll,holding_register,0,1,BE_BE
+ref,coiltest,0,uint16,r
